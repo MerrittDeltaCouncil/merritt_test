@@ -1,4 +1,4 @@
-# merritt_test
+# Aaron was here
 This is a test repository for Git and Github practice!
 ## Purpose
 - Create a remote repository on GitHub
